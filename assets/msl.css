@@ -87,3 +87,14 @@ input {
 #game-list {
 	list-style-type:none;
 }
+
+#game-recommend-container {
+	width: min(100vh, 100vw);
+	min-width: 200px;
+	background-color: lightgray;
+	border-radius: 5px;
+}
+
+#new-recommend-button {
+	margin-right: 30px;
+}
